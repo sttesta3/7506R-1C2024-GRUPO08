@@ -1,0 +1,1 @@
+Debido a que sci-kit learn no permite crear un ensamble de modelos pre entrenados ( o si existe, no encontramos como ) se crearon funciones de votacion customizadas para los ensambles realizados, disponibles en la notebook N2. 
